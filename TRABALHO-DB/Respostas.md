@@ -52,7 +52,7 @@ UPDATE partida
 
 ```
 
-Ao importar os dados CSV, analisei que quando os times empatavam nas partidas, o resultado voltava como um hífen (-). Modifiquei para empate para melhor entendimento dos dados.
+Ao importar os dados CSV, analisei que quando os times empatavam nas partidas, o resultado voltava como um hífen (-). Modifiquei para empate para melhor entendimento dos dados.\
 ![Empate - imagem](./img/empate.png)
 
 ## Exercício 2:
